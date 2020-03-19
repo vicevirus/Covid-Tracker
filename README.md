@@ -1,6 +1,9 @@
 # covid19trackerflutter
 
 A flutter app to view the current status of COVID
+Sorry for having too many bright colours.. might hurt your eye &#128514;
+
+
 
 API from https://github.com/NovelCOVID/API
 
