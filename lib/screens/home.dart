@@ -152,19 +152,13 @@ class _HomeScreenState extends State<HomeScreen> {
                             child: Row(
                               mainAxisAlignment: MainAxisAlignment.center,
                               children: <Widget>[
-                                Icon(
-                                  Icons.language,
-                                  size: 50,
-                                ),
-                                SizedBox(width: 20),
-                                Expanded(
-                                  child: Text(
-                                    "Check by Country ",
-                                    textAlign: TextAlign.center,
-                                    style: TextStyle(
-                                        fontWeight: FontWeight.w300,
-                                        fontSize: 30),
-                                  ),
+                               
+                                Text(
+                                  "Check by Country ",
+                                  textAlign: TextAlign.center,
+                                  style: TextStyle(
+                                      fontWeight: FontWeight.w300,
+                                      fontSize: 30),
                                 ),
                               ],
                             ),
