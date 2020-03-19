@@ -1,6 +1,8 @@
-# covidtracker
+# covid19trackerflutter
 
-A new Flutter project.
+A flutter app to view the current status of COVID
+
+API from https://github.com/NovelCOVID/API
 
 ## Getting Started
 
