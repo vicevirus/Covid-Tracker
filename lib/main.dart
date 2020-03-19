@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      title: "Covid 19 Tracker",
       
       // Start the app with the "/" named route. In this case, the app starts
       // on the FirstScreen widget.
