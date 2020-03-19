@@ -7,15 +7,9 @@ Sorry for having too many bright colours.. might hurt your eye &#128514;
 
 API from https://github.com/NovelCOVID/API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+| Page | Screenshot |
+| ------------- | ------------- |
+| Home Page  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss1.jpg" width="400">  |
+| Country Selection Page  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss2.jpg" width="400">
+| Graph and Details Page  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss3.jpg" width="400">|
