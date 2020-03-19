@@ -19,6 +19,6 @@ Remember to turn on unknown sources in settings and click 'install anyway' durin
 | <b>Graph and Details Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss3.jpg" width="400">|
 
 # Credits
-https://github.com/NovelCOVID/API for the API 
+https://github.com/NovelCOVID/API for the API <br/>
 Flutter packages developers <3
 
