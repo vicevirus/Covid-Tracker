@@ -3,6 +3,11 @@
 A simple flutter app to view the current status of COVID-19
 Sorry for having too many bright colours.. it might hurt your eye &#128514;
 
+Here is the release APK for Android<br/>
+<a href="https://github.com/vicevirus/covid19trackerflutter/raw/master/app-release.apk">Download (20.6mb)</a><br/>
+
+<b>Android ONLY</b>
+Remember to turn on unknown sources in settings and click 'install anyway' during installation.
 
 
 API from https://github.com/NovelCOVID/API
@@ -11,5 +16,5 @@ API from https://github.com/NovelCOVID/API
 | Page | Screenshot |
 | ------------- | ------------- |
 | <b>Home Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss1.jpg" width="400">  |
-| Country Selection Page  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss2.jpg" width="400">
-| Graph and Details Page  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss3.jpg" width="400">|
+| <b>Country Selection Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss2.jpg" width="400">
+| <b>Graph and Details Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss3.jpg" width="400">|
