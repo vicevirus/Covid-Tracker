@@ -10,7 +10,6 @@ Here is the release APK for Android<br/>
 Remember to turn on unknown sources in settings and click 'install anyway' during installation.
 
 
-API from https://github.com/NovelCOVID/API
 
 # Screenshots
 | Page | Screenshot |
@@ -18,3 +17,8 @@ API from https://github.com/NovelCOVID/API
 | <b>Home Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss1.jpg" width="400">  |
 | <b>Country Selection Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss2.jpg" width="400">
 | <b>Graph and Details Page</b>  | <img src="https://raw.githubusercontent.com/vicevirus/covid19trackerflutter/master/ss3.jpg" width="400">|
+
+# Credits
+https://github.com/NovelCOVID/API for the API 
+Flutter packages developers <3
+
