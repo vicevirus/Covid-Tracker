@@ -56,9 +56,8 @@ class WorldGraphDetailState extends State<WorldGraphDetail> {
         aspectRatio: 1.7,
         child: Scaffold(
           backgroundColor: Color(0xFFFF353839),
-          body: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            crossAxisAlignment: CrossAxisAlignment.stretch,
+          body: ListView(
+            
             children: <Widget>[
               GradientCard(
                 child: FlatButton(

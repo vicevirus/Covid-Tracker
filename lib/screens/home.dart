@@ -46,7 +46,10 @@ class _HomeScreenState extends State<HomeScreen> {
     return SafeArea(
       child: Scaffold(
         bottomNavigationBar: BottomAppBar(
-            child: Text("Do note that the data may not be updated as fast as your local medical institution",textAlign: TextAlign.center,)),
+            child: Text(
+          "Do note that the data may not be updated as fast as your local medical institution",
+          textAlign: TextAlign.center,
+        )),
         backgroundColor: Color(0xFFFF353839),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.start,
@@ -120,7 +123,6 @@ class _HomeScreenState extends State<HomeScreen> {
                     Text(
                       "Last Updated",
                       textAlign: TextAlign.left,
-                      
                       style: TextStyle(fontSize: 40),
                     ),
                     Text(
@@ -130,45 +132,32 @@ class _HomeScreenState extends State<HomeScreen> {
                   ],
                 )),
             SizedBox(height: 60),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-              children: <Widget>[
-                Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: <Widget>[
-                    FlatButton(
-                      onPressed: () {
-                        getData();
-                        Navigator.pushNamed(context, '/world');
-                      },
-                      child: GradientCard(
-                        elevation: 8,
-                        shadowColor:
-                            Gradients.hotLinear.colors.last.withOpacity(0.25),
-                        child: Container(
-                          padding: EdgeInsets.all(30.0),
-                          child: Container(
-                            width: 300,
-                            child: Row(
-                              mainAxisAlignment: MainAxisAlignment.center,
-                              children: <Widget>[
-                               
-                                Text(
-                                  "Check by Country ",
-                                  textAlign: TextAlign.center,
-                                  style: TextStyle(
-                                      fontWeight: FontWeight.w300,
-                                      fontSize: 30),
-                                ),
-                              ],
-                            ),
-                          ),
+            FlatButton(
+              onPressed: () {
+                getData();
+                Navigator.pushNamed(context, '/world');
+              },
+              child: GradientCard(
+                elevation: 8,
+                shadowColor: Gradients.hotLinear.colors.last.withOpacity(0.25),
+                child: Container(
+                  padding: EdgeInsets.all(30.0),
+                  child: Container(
+                    width: 300,
+                    child: Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                      children: <Widget>[
+                        Text(
+                          "Check by Country ",
+                          textAlign: TextAlign.center,
+                          style: TextStyle(
+                              fontWeight: FontWeight.w300, fontSize: 30),
                         ),
-                      ),
+                      ],
                     ),
-                  ],
-                )
-              ],
+                  ),
+                ),
+              ),
             ),
           ],
         ),
