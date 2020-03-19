@@ -1,6 +1,6 @@
 # covid19trackerflutter
 
-A flutter app to view the current status of COVID
+A flutter app to view the current status of COVID-19
 Sorry for having too many bright colours.. might hurt your eye &#128514;
 
 
