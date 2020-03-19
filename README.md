@@ -6,7 +6,7 @@ Sorry for having too many bright colours.. it might hurt your eye &#128514;
 Here is the release APK for Android<br/>
 <a href="https://github.com/vicevirus/covid19trackerflutter/raw/master/app-release.apk">Download (20.6mb)</a><br/>
 
-<b>Android ONLY</b>
+<b>Android ONLY</b><br/>
 Remember to turn on unknown sources in settings and click 'install anyway' during installation.
 
 
@@ -20,5 +20,6 @@ Remember to turn on unknown sources in settings and click 'install anyway' durin
 
 # Credits
 https://github.com/NovelCOVID/API for the API <br/>
+
 Flutter packages developers <3
 
