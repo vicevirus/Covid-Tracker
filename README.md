@@ -1,6 +1,6 @@
 # covid19trackerflutter
 
-A simple flutter app to view the current status of COVID-19
+A simple flutter app to view the current status of COVID-19<br/>
 Sorry for having too many bright colours.. it might hurt your eye &#128514;
 
 Here is the release APK for Android<br/>
