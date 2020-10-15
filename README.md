@@ -3,7 +3,7 @@
 <b>SORRY
 THIS PROJECT NO LONGER WORKS
 </b>
-<b>the old api is dead and i have no time to replace it</b>
+<br><b>the old api is dead and i have no time to replace it</b></br>
 
 A simple flutter app to view the current status of COVID-19<br/>
 Sorry for having too many bright colours.. it might hurt your eye &#128514;
