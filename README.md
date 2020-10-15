@@ -1,7 +1,8 @@
 # covid19trackerflutter
 
-THIS PROJECT IS MADE ON MY FREE TIME
-AS OF NOW THE API IS DEAD AND I HAVE NO TIME FIX IT SORRY 
+SORRY
+THIS PROJECT NO LONGER WORKS
+THE API IS DEAD
 
 A simple flutter app to view the current status of COVID-19<br/>
 Sorry for having too many bright colours.. it might hurt your eye &#128514;
